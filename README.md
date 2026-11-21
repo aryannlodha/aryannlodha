@@ -10,14 +10,16 @@
 
 ### About
 
-I'm an Industrial Engineering and Management student at RV College of Engineering, Bengaluru. I like building useful software, figuring out how systems work, and bringing ideas to life with a little hardware.
+I'm an Industrial Engineering & Management student at RVCE, Bengaluru. I enjoy building practical tools, from computer vision applications to Arduino-powered prototypes.
 
 ### Focus
 
-- AI tools and practical web applications
-- Optimisation, logistics, and smarter systems
-- Arduino, sensors, and hands-on prototypes
+- AI & computer vision
+- Optimisation & logistics
+- Embedded systems & renewable energy
 
 ### Tech
 
-`Python` · `TypeScript` · `C++` · `Arduino`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,opencv,arduino&amp;theme=dark" alt="Python, C, C++, TypeScript, OpenCV, Arduino" height="40" />
+</p>
