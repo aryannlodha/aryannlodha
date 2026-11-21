@@ -1,6 +1,6 @@
-<h1 align="center">Aryan Lodha</h1>
-
-<p align="center">Software · Systems · A little hardware</p>
+<p align="center">
+  <img src="assets/header.svg" alt="Aryan Lodha — Software, systems, and a little hardware" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanlodha26/">LinkedIn</a>
